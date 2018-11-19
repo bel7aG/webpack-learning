@@ -1,0 +1,9 @@
+{
+  "name": "Webpack",
+  "version": "1.0.0",
+  "description": "Learn basics of web\tpack",
+  "main": "index.js",
+  "author": "bel7aG",
+  "license": "MIT",
+  "private": true
+}
